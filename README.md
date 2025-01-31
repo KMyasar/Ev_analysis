@@ -1,14 +1,14 @@
 
 # Electric Vehicle (EV) Data Analysis
 
-### Overview
+## Overview
 
 
 This project focuses on analyzing the trends and statistics of electric vehicles (EVs) using a dataset obtained from Statso.io. The dataset includes information on various attributes of electric vehicles, such as **VIN, county, city, state, model year, make, model, electric vehicle type, clean alternative fuel vehicle eligibility, electric range,** and more. The analysis aims to provide insights into the adoption of electric vehicles over time and other relevant trends.
 
   
 
-### Dataset
+## Dataset
 
   
 
@@ -50,7 +50,7 @@ The dataset used in this analysis is named Electric_Vehicle_Population_Data.csv.
 
 **2020 Census Tract**: The census tract based on the 2020 Census
 
-### Analysis
+## Analysis
 
 
 The analysis is performed using Python and several data analysis libraries, including Pandas, Matplotlib, and Seaborn. The key steps in the analysis include:
@@ -63,7 +63,7 @@ The analysis is performed using Python and several data analysis libraries, incl
 
 **EV Adoption Over Time**: A bar plot is created to visualize the adoption of electric vehicles over the years. The plot shows the number of vehicles registered each year, providing insights into the growth of EV adoption.
 
-### Visualizations
+## Visualizations
 
   
 
@@ -73,7 +73,7 @@ The project includes visualizations to better understand the trends in EV adopti
 
 **EV Adoption Over Time**: A bar plot showing the number of electric vehicles registered each year from 2016 to 2023. The plot highlights the increasing trend in EV adoption over the years.
 
-### Requirements
+## Requirements
 
   
 
@@ -92,8 +92,7 @@ You can install these libraries using pip:
 pip install pandas matplotlib seaborn
 ```
 
-### Usage
-
+## Usage
 
 
 Clone the repository to your local machine.
@@ -102,15 +101,13 @@ Ensure you have the required Python libraries installed.
 
 Run the Jupyter Notebook ev_analysis.ipynb to perform the analysis and generate visualizations.
 
-### Conclusion
+## Conclusion
 
   
 
 This project provides a comprehensive analysis of electric vehicle adoption trends using real-world data. The visualizations help in understanding how EV adoption has evolved over the years and can be used to make informed decisions or further research in the field of electric vehicles.
 
-### Acknowledgments
-
-  
+## Acknowledgments
 
 Statso.io for providing the dataset.
 
